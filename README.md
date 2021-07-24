@@ -4,7 +4,7 @@ Info about me
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on currently nothing
-- 📫 How to reach me just dm me
+- 📫 To reach me just dm me
 
 <!---
 TheTolexDok/TheTolexDok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
