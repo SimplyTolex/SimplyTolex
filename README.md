@@ -1,6 +1,6 @@
 Info about me
 ===
-- 👋 Hi, I’m @TheTolexDok
+- 👋 Hi, I’m @SimplyTolex
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on currently nothing
