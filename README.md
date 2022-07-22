@@ -2,6 +2,5 @@ Info about me
 ===
 - 👋 Hi, I’m @SimplyTolex
 - 👀 I’m interested in everything about tech
-- 🌱 I’m currently learning python (and probably always will)
-- 📫 I don't know how you would go about reaching me
-  - and I doubt that discussions in my repo is a good place for that (but it will be for the time)
+- 🌱 I’m currently learning `Python` and `GDScript`
+- 📫 You can reach out to me by typing something in [Discussions page here](https://github.com/SimplyTolex/SimplyTolex/discussions/new)
