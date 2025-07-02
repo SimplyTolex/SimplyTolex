@@ -1,9 +1,9 @@
 # Hiya, I'm to1ex!
 
-I like rain and cookies! Oh and I also program sometimes :3
+I like cookies and I sometimes program and write small games for fun :3
 
-## Languages I know / worked in
+## Languages I know / worked with
 - Python
 - Lua
 - GDScript
-- HTML+CSS
+- HTML+CSS+JS
